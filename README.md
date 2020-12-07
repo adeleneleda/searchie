@@ -1,24 +1,13 @@
-# README
+# Searchie
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Your friendly proxy website to search the [OMDB API](http://www.omdbapi.com/). Deployed in [Heroku](https://lit-eyrie-26927.herokuapp.com/).
 
-Things you may want to cover:
+### Running the server locally
+```
+rails s
+```
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Running the console
+```
+rails c
+```
